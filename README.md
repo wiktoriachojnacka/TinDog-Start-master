@@ -1,6 +1,6 @@
 
 
-#TinDog Site 
+##TinDog Site 
 
 Responsive website written using HTML, CSS and Bootstrap5. The site was written to learn how to use Bootstrap5 practically.
 
